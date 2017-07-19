@@ -7,6 +7,7 @@ None
 ## Projects In-Progress
 - [Awesome mechanical engineering resources](https://github.com/m2n037/awesome-mecheng) by [@m2n037](https://github.com/m2n037/)
 - Implementation of the paper using MATLAB (Code to be updated)
+- Design a logo for [sigEng](https://github.com/sigEng/) by [@amit1097](https://github.com/amit1097/)
 
 ## Projects To-Be-Started
 - A site checker that tells if it redirects to any other website
