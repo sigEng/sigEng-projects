@@ -1,4 +1,4 @@
-# SIGEng Projects
+# sigEng Projects
 A wiki of projects done, in progress, and to be started
 
 ## Projects Completed
